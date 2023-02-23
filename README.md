@@ -1,4 +1,32 @@
-Hola, soy Jhon Bairo Hernández Gómez.
-Estudiante de Ingenieria en sistemas y amante de la programación.
-Me gusta java y espero mejorar hasta lograr un gran nivel de programación en este lenguaje y sus tecnologias, ademas de aprender nuevos lenguajes y así poder conseguir un mejoramiento en mi desarrollo profesional y personal.
-Bienvenido a mi perfil!
+---
+# 😉About me.
+
+Hi, I'm Jhon Bairo Hernández Gómez, a systems engineering student and programming lover based in Colombia.
+
+## 💻Tech stack
+
+### Languages
+- Java
+- Python
+- JavaScript
+- HTML
+- CSS
+
+### Frameworks
+- Springboot
+- FastAPI
+- Django
+- Vue.js
+- Bootstrap
+
+### Databases
+
+#### Relational
+- MySql
+- PostgreSql
+- Sqlite
+
+#### Non-relational
+- MongoDB
+
+---
