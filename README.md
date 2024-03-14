@@ -6,6 +6,7 @@ Hi, I'm Jhon Bairo Hernández Gómez, a systems engineering student and programm
 ## 💻Tech stack
 
 ### Languages
+- PHP
 - Java
 - Python
 - JavaScript
@@ -13,6 +14,7 @@ Hi, I'm Jhon Bairo Hernández Gómez, a systems engineering student and programm
 - CSS
 
 ### Frameworks
+- Laravel
 - Springboot
 - FastAPI
 - Django
