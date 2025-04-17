@@ -1,7 +1,7 @@
 ---
 # 😉About me.
 
-Hi, I'm Jhon Bairo Hernández Gómez, a systems engineering student and programming lover based in Colombia.
+Hi, I'm Jhon Bairo Hernández Gómez, a systems engineering student and coding enthusiast based in Colombia.
 
 ## 💻Tech stack
 
